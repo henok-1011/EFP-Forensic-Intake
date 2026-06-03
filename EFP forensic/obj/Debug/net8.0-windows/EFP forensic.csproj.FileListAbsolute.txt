@@ -1,0 +1,43 @@
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\EFP forensic.deps.json
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\EFP forensic.runtimeconfig.json
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\EFP forensic.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\EFP forensic.pdb
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic_MarkupCompile.cache
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic.g.resources
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic.AssemblyInfoInputs.cache
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic.AssemblyInfo.cs
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic.csproj.CoreCompileInputs.cache
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\refint\EFP forensic.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic.pdb
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic.genruntimeconfig.cache
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\ref\EFP forensic.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\EFP forensic.dll.config
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\RealScanUICSharp.Form1.resources
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP_forensic.sdk.RealScanExample_CSharp.Properties.Resources.resources
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\Xperix_442Rolled_Images2NIST.frmMain.resources
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP_forensic.sdk.RealScanExample_NISTConverter.Properties.Resources.resources
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic.csproj.GenerateResource.cache
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\EFP forensic.exe
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\RS_SDK.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\RS_SDK.ini
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\NFIQ2.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\opencv_world4100.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\Debug\net8.0-windows\tensorflowlite_c.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\RS_SDK.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\RS_SDK.ini
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\NFIQ2.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\opencv_world4100.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\tensorflowlite_c.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\EFP forensic.exe
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\EFP forensic.dll.config
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\EFP forensic.deps.json
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\EFP forensic.runtimeconfig.json
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\EFP forensic.dll
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\bin\x64\Debug\net8.0-windows\EFP forensic.pdb
+C:\Users\Henok B\source\repos\EFP forensic\EFP forensic\obj\Debug\net8.0-windows\EFP forensic_MarkupCompile.lref

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EFP forensic": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
